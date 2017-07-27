@@ -1,0 +1,59 @@
+body {
+  background-color: #fcf2ea;
+}
+
+.container {
+  background-color: #fcf2ea;
+  border-left: 2px solid #3c90c1;
+  border-right: 2px solid #3c90c1;
+  padding: 5px;
+  margin-top: 30px;
+}
+
+#modals {
+  display: block;
+}
+
+.modalButton {
+  display: block;
+  margin: 10px auto 0 auto;
+  font-family: "Bellefair", serif;
+  font-size: 20px;
+}
+
+.adderButton {
+  font-size: 25px;
+}
+
+#theAdder {
+  display: block;
+}
+
+textarea {
+  width: 100%;
+}
+
+input {
+  width: 100%;
+}
+
+#theAdder {
+  margin-top: 10px;
+}
+
+#title {
+  margin-top: 15px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 2.5em;
+  font-family: "Bellefair", serif;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+#recipeBox {
+  border-top: 2px solid #2fbac6;
+  border-bottom: 2px solid #2fbac6;
+}
